@@ -3,7 +3,7 @@ Repositorio para planos de aprendizaje
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Patrulla  [Nombre del Grupo]**
+**Plano comunicativo – Patrulla  [Lobos del Conocimiento]**
 
 ---
 
@@ -19,7 +19,7 @@ Repositorio para planos de aprendizaje
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
+|Isaura |               |                   |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
