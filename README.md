@@ -56,11 +56,9 @@ Repositorio para planos de aprendizaje
 
 | Elemento            | Quién / Qué               | Detalles / Ejemplos                                      | Representación visual |
 |--------------------|----------------------------|----------------------------------------------------------|-----------------------|
-| 🔊 **Emisor**       |Docente o Estudiante     |  Quien envia el mensaje                                   | 🔊 
-                    |
+| 🔊 **Emisor**       |Docente o Estudiante     |  Quien envia el mensaje                                   | 🔊                    |
 | 👂 **Receptor**     |Estudiantes o Docentes   |   Quien lo recibe                                         | 👂                    |
 | 🌐 **Canal**        |Medios de comunicaciòn    | Ej: Google Meet, Moodle, WhatsApp, correo                |🌐                     |
-
 | ⚠️ **Ruido**        |Interferencias            | Ej: desconexión, distracción, mal diseño de contenido    |⚠️                     |
 | 🔁 **Retroalimentación** |Respuestas o comentarios | Preguntas, respuestas, tareas realizadas             | 🔁                    |
 
